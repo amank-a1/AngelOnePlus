@@ -6,6 +6,11 @@ For visualizing option payoffs across multiple trading strategies, aiding trader
 - **Members**: 1. Ritesh Gohil (@gohilritesh-angelone) 2. Aman Kumar Azad (@amank-a1)
 
 ## Problem Statement
+- Over 90% of our turnover comes from the F&O segment, as evident.
+- Source: https://www.bseindia.com/xml-data/corpfiling/AttachLive/b7224b44-e7f1-40de-b93c-24c6c7adc373.pdf
+![Screenshot 2023-10-12 at 11 16 53 PM](https://github.com/amank-a1/hack23-AngelOnePlus/assets/122511444/8a316261-1e4a-4cc5-bd2c-b912294d4d18)
+
+Complete Idea documentation - https://docs.google.com/document/d/1Bwve0n1ZYqIO1RBZQR2knWFBPHKcS3hSOmhCgH7AmoQ/edit
 Option trading is a complex financial instrument with multiple strategies and payoffs. Understanding the payoff graph for multiple positions can be a daunting task, especially for beginners.
 
 Our solution aims to simplify this by providing an intuitive GUI-based application that visualizes option payoffs using the QT framework, helping traders make more informed decisions.
