@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>OpenAPIScripMaster.json</file>
+        <file>SymbolDetails.csv</file>
+    </qresource>
+</RCC>
