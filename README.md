@@ -5,6 +5,9 @@ For visualizing option payoffs across multiple trading strategies, aiding trader
 - **Name**: Derivatives Dominators
 - **Members**: 1. Ritesh Gohil (@gohilritesh-angelone) 2. Aman Kumar Azad (@amank-a1)
 
+## Demo Video link
+- https://drive.google.com/file/d/1r9YFCkny7B0tbia0FcpSOc_jOYGJZzYt/view?usp=sharing
+
 ## Problem Statement
 - F&O trading is growing rapidly in comparison to the equity segment in our current system, but we lack special features for F&O traders
 - The screenshot below shows how turnover is divided among various categories like equity, F&O, and commodities.
