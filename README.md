@@ -6,7 +6,7 @@ For visualizing option payoffs across multiple trading strategies, aiding trader
 - **Members**: 1. Ritesh Gohil (@gohilritesh-angelone) 2. Aman Kumar Azad (@amank-a1)
 
 ## Problem Statement
--F&O trading is growing rapidly in comparison to the equity segment in our current system, but we lack special features for F&O traders
+- F&O trading is growing rapidly in comparison to the equity segment in our current system, but we lack special features for F&O traders
 - The screenshot below shows how turnover is divided among various categories like equity, F&O, and commodities.
 - Over 90% of our turnover comes from the F&O segment, as evident.
 - Source: https://www.bseindia.com/xml-data/corpfiling/AttachLive/b7224b44-e7f1-40de-b93c-24c6c7adc373.pdf
@@ -31,8 +31,7 @@ Our solution aims to simplify this by providing an intuitive GUI-based applicati
   ![image (6)](https://github.com/amank-a1/hack23-AngelOnePlus/assets/122511444/ef7bfb1a-2524-4819-9e38-abe123cf64a0)
 
 - Support for multiple option trading strategies.
-  ![image (7)](https://github.com/amank-a1/hack23-AngelOnePlus/assets/122511444/8237fbc9-67ad-494e-a299-5545af7cc03b)
-
+  ![image (8)](https://github.com/amank-a1/hack23-AngelOnePlus/assets/122511444/2929abd3-cb29-4b53-ad96-a084b57b0ec0)
 
 
 ## Getting Started
