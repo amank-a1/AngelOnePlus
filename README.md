@@ -1,6 +1,10 @@
 # AngelOnePlus
 For visualizing option payoffs across multiple trading strategies, aiding traders in understanding and strategizing their positions.
 
+## Team
+- **Name**: Derivatives Dominators
+- **Members**: 1. Ritesh Gohil (@gohilritesh-angelone) 2. Aman Kumar Azad (@amank-a1)
+
 ## Problem Statement
 Option trading is a complex financial instrument with multiple strategies and payoffs. Understanding the payoff graph for multiple positions can be a daunting task, especially for beginners.
 
