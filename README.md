@@ -32,12 +32,5 @@ Our solution aims to simplify this by providing an intuitive GUI-based applicati
 ## Mock Data
 Refer to the `mock_data` directory for demo datasets.
 
-## Evaluation Criteria (as per Hackathon)
-- **Innovation**: Our approach simplifies the complex task of understanding option payoffs, especially beneficial for novice traders.
-- **Technical Implementation**: Leveraging the QT framework and QCustomPlot library, our solution is robust and scalable.
-- **Business Potential**: With the growing interest in option trading, such a tool can gain significant traction among trading communities.
-- **UI/UX**: A clean, intuitive interface ensures a smooth user experience.
-- **Overall Presentation**: Our solution is packaged with comprehensive documentation, making it easy for anyone to get started.
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
