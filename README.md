@@ -27,11 +27,13 @@ Our solution aims to simplify this by providing an intuitive GUI-based applicati
 - Intuitive input fields for option parameters such as option chains, option indices and available strategies.
   ![image (5)](https://github.com/amank-a1/hack23-AngelOnePlus/assets/122511444/674c65f9-9117-4091-805e-efe2178714c0)
 
+
 - Visualization of option payoffs using graphs. 
 - This will help trader to gauge risk and take better trading decisions.
 - We are providing complete margin requirements including margin benefits from Angel Span Calculator.
 - User has the capability to punch multiple order on click of a single button.
   ![image (6)](https://github.com/amank-a1/hack23-AngelOnePlus/assets/122511444/ef7bfb1a-2524-4819-9e38-abe123cf64a0)
+
 
 - Support for multiple option trading strategies.
 - Multiple strategies can be used including some classic well-known strategies, ex - Straddle, Bull Call Spread etc.
